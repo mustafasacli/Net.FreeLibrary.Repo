@@ -1,0 +1,6 @@
+E:\Projects\Framework_Denemeler\FrLib\Net.FreeLibrary.Core\bin\Debug\Net.FreeLibrary.Core.dll
+E:\Projects\Framework_Denemeler\FrLib\Net.FreeLibrary.Core\bin\Debug\Net.FreeLibrary.Core.pdb
+E:\Projects\Framework_Denemeler\FrLib\Net.FreeLibrary.Core\obj\Debug\Net.FreeLibrary.Core.csprojAssemblyReference.cache
+E:\Projects\Framework_Denemeler\FrLib\Net.FreeLibrary.Core\obj\Debug\Net.FreeLibrary.Core.csproj.CoreCompileInputs.cache
+E:\Projects\Framework_Denemeler\FrLib\Net.FreeLibrary.Core\obj\Debug\Net.FreeLibrary.Core.dll
+E:\Projects\Framework_Denemeler\FrLib\Net.FreeLibrary.Core\obj\Debug\Net.FreeLibrary.Core.pdb

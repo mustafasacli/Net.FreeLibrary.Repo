@@ -1,0 +1,10 @@
+E:\Projects\Framework_Denemeler\FrLib\Net.FreeLibrary.Control\bin\Debug\Net.FreeLibrary.Control.dll
+E:\Projects\Framework_Denemeler\FrLib\Net.FreeLibrary.Control\bin\Debug\Net.FreeLibrary.Control.pdb
+E:\Projects\Framework_Denemeler\FrLib\Net.FreeLibrary.Control\bin\Debug\Net.FreeLibrary.Core.dll
+E:\Projects\Framework_Denemeler\FrLib\Net.FreeLibrary.Control\bin\Debug\System.Windows.Forms.dll
+E:\Projects\Framework_Denemeler\FrLib\Net.FreeLibrary.Control\bin\Debug\Net.FreeLibrary.Core.pdb
+E:\Projects\Framework_Denemeler\FrLib\Net.FreeLibrary.Control\obj\Debug\Net.FreeLibrary.Control.csprojAssemblyReference.cache
+E:\Projects\Framework_Denemeler\FrLib\Net.FreeLibrary.Control\obj\Debug\Net.FreeLibrary.Control.csproj.CoreCompileInputs.cache
+E:\Projects\Framework_Denemeler\FrLib\Net.FreeLibrary.Control\obj\Debug\Net.FreeLibrary.Control.csproj.CopyComplete
+E:\Projects\Framework_Denemeler\FrLib\Net.FreeLibrary.Control\obj\Debug\Net.FreeLibrary.Control.dll
+E:\Projects\Framework_Denemeler\FrLib\Net.FreeLibrary.Control\obj\Debug\Net.FreeLibrary.Control.pdb
